@@ -1,0 +1,70 @@
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\bin\Debug\net6.0\appsettings.json
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\bin\Debug\net6.0\IB_API.exe
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\bin\Debug\net6.0\IB_API.deps.json
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\bin\Debug\net6.0\IB_API.runtimeconfig.json
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\bin\Debug\net6.0\IB_API.dll
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\bin\Debug\net6.0\IB_API.pdb
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\bin\Debug\net6.0\Autofac.dll
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\bin\Debug\net6.0\IB_Domain.dll
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\bin\Debug\net6.0\IB_Domain.pdb
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.csproj.AssemblyReference.cache
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.AssemblyInfoInputs.cache
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.AssemblyInfo.cs
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.csproj.CoreCompileInputs.cache
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\obj\Debug\net6.0\scopedcss\bundle\IB_API.styles.css
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.csproj.CopyComplete
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.dll
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\obj\Debug\net6.0\refint\IB_API.dll
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.pdb
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.genruntimeconfig.cache
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\obj\Debug\net6.0\ref\IB_API.dll
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\bin\Debug\net6.0\IB_API.xml
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.xml
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\bin\Debug\net6.0\appsettings.json
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\bin\Debug\net6.0\IB_API.exe
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\bin\Debug\net6.0\IB_API.deps.json
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\bin\Debug\net6.0\IB_API.runtimeconfig.json
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\bin\Debug\net6.0\IB_API.dll
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\bin\Debug\net6.0\IB_API.pdb
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\bin\Debug\net6.0\IB_API.xml
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\bin\Debug\net6.0\Autofac.dll
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\bin\Debug\net6.0\IB_Domain.dll
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\bin\Debug\net6.0\IB_Domain.pdb
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.csproj.AssemblyReference.cache
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.AssemblyInfoInputs.cache
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.AssemblyInfo.cs
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.csproj.CoreCompileInputs.cache
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\obj\Debug\net6.0\scopedcss\bundle\IB_API.styles.css
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.csproj.CopyComplete
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.dll
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\obj\Debug\net6.0\refint\IB_API.dll
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.xml
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.pdb
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\obj\Debug\net6.0\IB_API.genruntimeconfig.cache
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\IB_API\obj\Debug\net6.0\ref\IB_API.dll

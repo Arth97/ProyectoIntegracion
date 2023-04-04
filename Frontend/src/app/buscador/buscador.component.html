@@ -1,0 +1,61 @@
+
+<main class="content" role="main">
+  <div class="mainContent">
+    <section class="formSection">
+      <form class="form">
+        <p>
+          <!-- Localidad -->
+          <mat-form-field class="form-full-width">
+            <mat-label>Localidad</mat-label>
+            <input matInput [(ngModel)]='localidad' name="localidad">
+          </mat-form-field>
+
+          <!-- Cod. Postal -->
+          <mat-form-field class="form-full-width">
+            <mat-label>Cod. Postal</mat-label>
+            <input matInput maxlength="5" placeholder="Ex. 94105" [(ngModel)]='codigoPostal' name="codigoPostal">
+            <mat-hint align="end">{{codigoPostal.length}} / 5</mat-hint>
+          </mat-form-field>
+
+          <!-- Provincia -->
+          <mat-form-field class="form-full-width">
+            <mat-label>Provincia</mat-label>
+            <input matInput [(ngModel)]='provincia' name="provincia">
+          </mat-form-field>
+
+          <!-- Tipo -->
+          <mat-form-field class="form-full-width">
+            <mat-label>Seleccionar Tipo</mat-label>
+            <mat-select (selectionChange)="changeClient($event)">
+              <mat-option *ngFor="let ty of type" [value]="ty">
+                {{ty}}
+              </mat-option>
+            </mat-select>
+          </mat-form-field>
+        </p>
+      </form>
+      <section class="buttonsSection">
+        <div class="button-row">
+          <button mat-raised-button color="accent" (click)="borrar()">Cancelar</button>
+          <button mat-raised-button color="" (click)="getData()">Buscar</button>
+        </div>
+      </section>
+    </section>
+    <section class="mapSection">
+      <div id="ol-map" class="map-container"></div>
+    </section>
+  </div>
+  <div class="result"></div>
+
+  <section>
+    <div class="footerDiv">
+      <span>
+        <h2>Resultados de la busqueda:</h2>
+      </span>
+      <textarea readonly class="resultText" [ngModel]="resultados" name="resultados"></textarea>
+    </div>
+  </section>
+</main>
+
+
+

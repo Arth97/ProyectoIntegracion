@@ -1,0 +1,24 @@
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\EUS_Domain\bin\Debug\net6.0\EUS_Domain.deps.json
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\EUS_Domain\bin\Debug\net6.0\EUS_Domain.dll
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\EUS_Domain\bin\Debug\net6.0\EUS_Domain.pdb
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\EUS_Domain\obj\Debug\net6.0\EUS_Domain.csproj.AssemblyReference.cache
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\EUS_Domain\obj\Debug\net6.0\EUS_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\EUS_Domain\obj\Debug\net6.0\EUS_Domain.AssemblyInfoInputs.cache
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\EUS_Domain\obj\Debug\net6.0\EUS_Domain.AssemblyInfo.cs
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\EUS_Domain\obj\Debug\net6.0\EUS_Domain.csproj.CoreCompileInputs.cache
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\EUS_Domain\obj\Debug\net6.0\EUS_Domain.dll
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\EUS_Domain\obj\Debug\net6.0\refint\EUS_Domain.dll
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\EUS_Domain\obj\Debug\net6.0\EUS_Domain.pdb
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\EUS_Domain\obj\Debug\net6.0\ref\EUS_Domain.dll
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\EUS_Domain\bin\Debug\net6.0\EUS_Domain.deps.json
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\EUS_Domain\bin\Debug\net6.0\EUS_Domain.dll
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\EUS_Domain\bin\Debug\net6.0\EUS_Domain.pdb
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\EUS_Domain\obj\Debug\net6.0\EUS_Domain.csproj.AssemblyReference.cache
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\EUS_Domain\obj\Debug\net6.0\EUS_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\EUS_Domain\obj\Debug\net6.0\EUS_Domain.AssemblyInfoInputs.cache
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\EUS_Domain\obj\Debug\net6.0\EUS_Domain.AssemblyInfo.cs
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\EUS_Domain\obj\Debug\net6.0\EUS_Domain.csproj.CoreCompileInputs.cache
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\EUS_Domain\obj\Debug\net6.0\EUS_Domain.dll
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\EUS_Domain\obj\Debug\net6.0\refint\EUS_Domain.dll
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\EUS_Domain\obj\Debug\net6.0\EUS_Domain.pdb
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\EUS_Domain\obj\Debug\net6.0\ref\EUS_Domain.dll

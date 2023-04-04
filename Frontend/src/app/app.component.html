@@ -1,0 +1,20 @@
+
+
+<header>
+  <container-element [ngSwitch]="optionSelected">
+    <h1 *ngSwitchCase="0">Buscador de centros de salud</h1>
+    <h1 *ngSwitchCase="1">Carga de almacen de datos</h1>
+  </container-element>
+</header>
+
+<nav class="navBar">
+  <button mat-button (click)="switchOption()" [ngClass]="optionSelected == 0 ? 'linkButtonSelected' : 'linkButton' ">Buscador</button>
+  <button mat-button (click)="switchOption()" [ngClass]="optionSelected == 1 ? 'linkButtonSelected' : 'linkButton' ">Cargar</button>
+</nav>
+
+<container-element [ngSwitch]="optionSelected">
+  <app-buscador *ngSwitchCase="0"></app-buscador>
+  <app-carga *ngSwitchCase="1"></app-carga>
+</container-element>
+
+<router-outlet></router-outlet>

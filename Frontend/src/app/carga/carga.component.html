@@ -1,0 +1,35 @@
+
+<main class="content" role="main">
+  <div class="mainContent">
+    <section style="align-self: flex-start;">
+      <h2 style="margin-top: 3px">Seleccione fuente: </h2>
+    </section>
+    <section>
+      <section class="checkboxList">
+        <mat-checkbox [(ngModel)]="seleccionarTodas">Seleccionar todas</mat-checkbox>
+        <mat-checkbox [(ngModel)]="islasBaleares" [ngModel]="seleccionarTodas">Islas Baleares</mat-checkbox>
+        <mat-checkbox [(ngModel)]="comunidadValenciana" [ngModel]="seleccionarTodas">Comunidad Valenciana</mat-checkbox>
+        <mat-checkbox [(ngModel)]="euskadi" [ngModel]="seleccionarTodas">Euskadi</mat-checkbox>
+      </section>
+      <section class="buttonsSection">
+        <div class="button-row">
+          <button mat-raised-button color="accent" (click)="cancel()">Cancelar</button>
+          <button mat-raised-button color="" (click)="loadData()">Cargar</button>
+          <button mat-raised-button color="warn" (click)="borrarBD()">BorrarBD</button>
+        </div>
+      </section>
+    </section>
+  </div>
+  <div class="result"></div>
+
+  <section>
+    <div class="footerDiv">
+      <span>
+        <h2>Resultados de la busqueda:</h2>
+      </span>
+      <textarea readonly class="resultText" [ngModel]="resultados" name="resultados"></textarea>
+    </div>
+  </section>
+</main>
+
+

@@ -1,0 +1,40 @@
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\Domain\bin\Debug\net6.0\Data.dll
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\Domain\bin\Debug\net6.0\Repository.dll
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\Domain\bin\Debug\net6.0\Repository.pdb
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\Domain\bin\Debug\net6.0\Data.pdb
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\Domain\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\Domain\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\WIMTRUCK 2\source\repos\ProyectoIEI\Domain\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\Domain\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\Domain\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\Domain\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\Domain\bin\Debug\net6.0\Data.dll
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\Domain\bin\Debug\net6.0\Repository.dll
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\Domain\bin\Debug\net6.0\Repository.pdb
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\Domain\bin\Debug\net6.0\Data.pdb
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\artur\Documents\Programacion\IEI\ProyectoIEI\Domain\obj\Debug\net6.0\ref\Domain.dll

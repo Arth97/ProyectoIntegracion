@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Carga_API</name>
+    </assembly>
+    <members>
+        <member name="M:API_Carga.Controllers.CargaController.DeleteDatabase">
+            <summary>
+            Delete database.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                DELETE api/Delete
+                {        
+                         
+                }
+            </remarks>
+            <returns>Response</returns>
+            <response code="200">Returns response</response>
+            <response code="500">Internal Server Error, can not delete the database</response>
+        </member>
+        <member name="M:API_Carga.Controllers.CargaController.StoreCVData(Data.DTO.LoadOptions)">
+            <summary>
+            Store data into Database.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                GET api/LoadData
+                {        
+                    "IlasBaleares": true,
+                    "ComunidadValencia: true,
+                    "Euskadi": false
+                }
+            </remarks>
+            <returns>Response and sring with errors</returns>
+            <response code="200">Returns response with errors</response>
+            <response code="500">Internal Server Error, can not store data into database</response>
+        </member>
+    </members>
+</doc>

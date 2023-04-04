@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IB_API</name>
+    </assembly>
+    <members>
+        <member name="M:IB_API.Controllers.IBController.Get">
+            <summary>
+            Gets Json from XML file.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                GET api/IB
+                {        
+                  "FileType": "XML",        
+                }
+            </remarks>
+            <returns>A Json from XML file</returns>
+            <response code="200">Returns the jsonString item</response>
+            <response code="404">If the item is null</response>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EUS_API</name>
+    </assembly>
+    <members>
+        <member name="M:CV_API.Controllers.EUSController.Get">
+            <summary>
+            Gets Json file.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                GET api/EUS
+                {        
+                  "FileType": "JSON",        
+                }
+            </remarks>
+            <returns>A Json file</returns>
+            <response code="200">Returns the jsonString item</response>
+            <response code="404">If the item is null</response>
+        </member>
+    </members>
+</doc>

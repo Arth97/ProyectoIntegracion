@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "u4PAgY2C5P52jzUNR34tJkB4pX8VI/4jSJbfqlG3HfQ=",
+  "Source": "IB_API",
+  "BasePath": "_content/IB_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
